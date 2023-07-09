@@ -1,0 +1,11 @@
+masa
+titanic
+hall1
+200.0
+Cash
+50.0
+false
+Tue Jan 03 04:00:00 EET 2023
+2
+S2
+S3
